@@ -32,3 +32,31 @@ You can also just take a look at the [Live Demo](https://prettycoffee.github.io/
 * [Icons - FontAwesome](https://fontawesome.com/icons)
 * [Text Flicker - CodeMyUI](https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/)
 * [Wave Animation - mburakerman](https://codepen.io/mburakerman/pen/eRZZEv)
+
+## /demo-build
+### /fluidity
+* PrettyCoffee/fluidity
+* react, npm/node.js, typescript, docker   
+
+<img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/default-theme.png" width="480"> <img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/DarkSouls-theme.png" width="480"> <img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/pop!os-theme.png" width="480">
+
+### /homepage
+* nixton9/HomePage
+<img src="" width="480">
+
+### /startpage
+* kencx/startpage
+<img src="" width="480">
+
+### /startup
+* timothypholmes/startup-page
+* npm/node.js   
+
+<img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/new-preview-light.png" width="480"> <img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/new-preview-dark.png" width="480"> <img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/preview-light.png" width="480"> <img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/preview-dark.png" width="480">
+
+### /y-a-g-sp
+* PrettyCoffee/yet-another-generic-startpage
+* react, npm/node.js, typescript, docker   
+<img src="https://github.com/PrettyCoffee/yet-another-generic-startpage/blob/master/themes/preview.png" width="480">
+[preview] (./themes/preview.png)
+<img src="" width="480">
