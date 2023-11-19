@@ -1,0 +1,20 @@
+# dependencies
+node_modules
+
+# vscode
+.vscode
+
+# config files
+.env
+src/config/index.js
+
+# media files
+*.mp4
+!desert.mp4
+
+# macOS
+.DS_STORE
+
+# compiled
+dist/
+build/
