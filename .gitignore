@@ -12,6 +12,7 @@
 /build
 
 # demo build files
+/demo-build
 
 # misc
 .DS_Store
