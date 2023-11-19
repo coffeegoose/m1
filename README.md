@@ -26,6 +26,7 @@ You can also just take a look at the [Live Demo](https://prettycoffee.github.io/
 * user/repo   [Github]( | [Test page](
 
 ### resources
+* [Cat Animation - glreno](https://github.com/glreno/oneko)
 * [Cat gif](https://twitter.com/avogado6/status/1165595520967954432?s=19)
 * [Pictures - DeathAndMilk](https://www.instagram.com/deathandmilk_/)
 * [Icons - FontAwesome](https://fontawesome.com/icons)
