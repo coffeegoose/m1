@@ -11,9 +11,7 @@
 # production
 /build
 
-# example/template files
-/fluidity
-/startup-page
+# demo build files
 
 # misc
 .DS_Store
