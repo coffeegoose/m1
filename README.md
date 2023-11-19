@@ -47,31 +47,34 @@ Since this project is programmed with React and TypeScript, you will first need 
 * [Wave Animation - mburakerman](https://codepen.io/mburakerman/pen/eRZZEv)
 
 ## /demo-build
-### /fluidity
+### /coffee-f
 * PrettyCoffee/fluidity
 * react, npm/node.js, typescript, docker   
 
 <img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/default-theme.png" width="480"> <img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/DarkSouls-theme.png" width="480"> <img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/pop!os-theme.png" width="480">
 
-### /homepage
-* nixton9/HomePage
-<img src="" width="480">
+### /coffee-y
+* PrettyCoffee/yet-another-generic-startpage
+* react, npm/node.js, typescript, docker   
 
-### /startpage
+<img src="https://github.com/PrettyCoffee/yet-another-generic-startpage/blob/master/themes/preview.png" width="480">
+
+### /ken
 * kencx/startpage
 * html & css ONLY   
 
 <img src="https://github.com/kencx/startpage/raw/master/startpage.gif" width="480">
 
-### /startup
+### /nixton
+* nixton9/HomePage
+<img src="" width="480">
+
+### /timothy
 * timothypholmes/startup-page
 * npm/node.js   
 
 <img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/new-preview-light.png" width="480"> <img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/new-preview-dark.png" width="480"> <img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/preview-light.png" width="480"> <img src="https://github.com/timothypholmes/startup-page/raw/main/src/assets/preview/preview-dark.png" width="480">
 
-### /y-a-g-sp
-* PrettyCoffee/yet-another-generic-startpage
-* react, npm/node.js, typescript, docker   
-<img src="https://github.com/PrettyCoffee/yet-another-generic-startpage/blob/master/themes/preview.png" width="480">
+
 [preview] (./themes/preview.png)
 <img src="" width="480">
