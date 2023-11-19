@@ -41,6 +41,7 @@ Since this project is programmed with React and TypeScript, you will first need 
 // * user/repo   [Github]( | [Test page](
 
 ### resources
+* [casca chrome extension](https://casca.space/)
 * [Cat Animation - glreno](https://github.com/glreno/oneko)
 * [Cat gif](https://twitter.com/avogado6/status/1165595520967954432?s=19)
 * [Pictures - DeathAndMilk](https://www.instagram.com/deathandmilk_/)
