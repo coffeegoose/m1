@@ -46,7 +46,9 @@ You can also just take a look at the [Live Demo](https://prettycoffee.github.io/
 
 ### /startpage
 * kencx/startpage
-<img src="" width="480">
+* html & css ONLY   
+
+<img src="https://github.com/kencx/startpage/raw/master/startpage.gif" width="480">
 
 ### /startup
 * timothypholmes/startup-page
