@@ -4,7 +4,7 @@ import { css } from "@emotion/react"
 import styled from "@emotion/styled/macro"
 import { Save, X } from "react-feather"
 
-import { IconButton, TextInput } from "../../"
+import { IconButton, TextInput } from "../.."
 import { RowElement } from "../EditableRow"
 
 const Wrapper = styled.div`

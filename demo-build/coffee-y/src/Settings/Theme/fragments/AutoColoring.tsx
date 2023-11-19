@@ -5,7 +5,7 @@ import { useTheme } from "@startpage/theming"
 
 import { SpacedLayout } from "../../fragments/SpacedLayout"
 import { ColorSet, extractColorSetFromTheme } from "../utils/ColorSet"
-import { ColorFields, ColorPresets, InvertSwitch } from "./"
+import { ColorFields, ColorPresets, InvertSwitch } from "."
 
 export const AutoColoring = () => {
   const { theme, setTheme } = useTheme()
