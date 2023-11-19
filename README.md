@@ -36,7 +36,9 @@ Since this project is programmed with React and TypeScript, you will first need 
 * timothypholmes/startup-page   [Github](https://github.com/timothypholmes/startup-page) | [Test page](https://timothypholmes.github.io/startup-page/)
 * nixton9/HomePage   [Github](https://github.com/nixton9/HomePage)
 * kencx/startpage   [Github](https://github.com/kencx/startpage) | [Test page](https://kencx.github.io/startpage/)
-* user/repo   [Github]( | [Test page](
+* OlegWock/anori   [Github](https://github.com/OlegWock/anori)
+    * info about [widgets](https://github.com/OlegWock/anori/blob/master/DEVELOPMENT_AND_EXTENDING.md)
+// * user/repo   [Github]( | [Test page](
 
 ### resources
 * [Cat Animation - glreno](https://github.com/glreno/oneko)
@@ -67,6 +69,7 @@ Since this project is programmed with React and TypeScript, you will first need 
 
 ### /nixton
 * nixton9/HomePage
+* react, npm/node.js, typescript
 <img src="" width="480">
 
 ### /timothy
