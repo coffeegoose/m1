@@ -1,6 +1,5 @@
-# ![logo](https://github.com/PrettyCoffee/fluidity/blob/main/public/logo192.png)
-
-# Fluidity - An accordion based startpage
+![logo](https://github.com/coffeegoose/mercurial/blob/main/public/logo192.png) 
+# Mercurial - An accordion based startpage
 Here you can find the startpage I created for my browser :)
 
 If you have any problems or miss a feature, create an issue and I will take a look at it! Of course, if you want to add a feature yourself you can just create a fork and contribute ;)
