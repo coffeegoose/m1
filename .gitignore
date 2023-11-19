@@ -13,6 +13,7 @@
 
 # example/template files
 /fluidity
+/startup-page
 
 # misc
 .DS_Store
