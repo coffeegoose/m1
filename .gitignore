@@ -11,6 +11,9 @@
 # production
 /build
 
+# example/template files
+/fluidity
+
 # misc
 .DS_Store
 .env.local
