@@ -11,9 +11,7 @@ I created a [reddit post](https://www.reddit.com/r/startpages/comments/m82izg/my
 You can also just take a look at the [Live Demo](https://prettycoffee.github.io/fluidity/).
 
 ### Themes
-![Default theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/default-theme.png)
-![Dark Souls theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/DarkSouls-theme.png)
-![Pop!OS theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/pop!os-theme.png)
+<img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/default-theme.png" width="600"> <img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/DarkSouls-theme.png" width="600"> <img src="https://github.com/PrettyCoffee/fluidity/blob/main/docs/pop!os-theme.png" width="600">  
 **If you created a theme and want to see it here, hit me up!**
 
 ## Advanced: Changing the code
@@ -41,6 +39,7 @@ Since this project is programmed with React and TypeScript, you will first need 
 // * user/repo   [Github]( | [Test page](
 
 ### resources
+* [casca chrome extension](https://casca.space/)
 * [Cat Animation - glreno](https://github.com/glreno/oneko)
 * [Cat gif](https://twitter.com/avogado6/status/1165595520967954432?s=19)
 * [Pictures - DeathAndMilk](https://www.instagram.com/deathandmilk_/)
